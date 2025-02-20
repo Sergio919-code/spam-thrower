@@ -174,9 +174,7 @@ class Ui_MainWindow(object):
         </ol>
         <h2>Disclaimer</h2>
         <p>This tool is for educational purposes only. Do not use it for malicious purposes.</p>
-        <h3>
-        <p>There is still some Errors in resending the spam, please close the app and run it again to spam again.</p>
-        </h3>    """
+            """
         
         )
         msg_box.setTextInteractionFlags(QtCore.Qt.TextBrowserInteraction)
