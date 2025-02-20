@@ -4,6 +4,7 @@
 ## How to use
 #### Only support Gmail for this version
 * go to activate a google app passward
+* spam-APP.py is the application using PyQt5
 * login with you email
 * enter number of spams and traget email address
 * <b>Press Spamming Button 
